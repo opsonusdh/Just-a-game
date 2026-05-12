@@ -7,7 +7,11 @@ version         = 1.0
 source.dir      = .
 source.include_exts = py,png,jpg
 
-requirements = python3, pygame
+requirements = python3, pygame-ce
+
+p4a.url = https://github.com/kivy/python-for-android
+p4a.branch = develop
+
 
 android.minapi  = 24
 android.api     = 33
