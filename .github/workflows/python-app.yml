@@ -63,4 +63,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Just-a-game-apk
-        path: bin/*.apk.apk
+        path: bin/*.apk
